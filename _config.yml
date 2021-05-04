@@ -7,6 +7,7 @@ homepage:
 logo:
   mobile: images/rainy-cabbage.png
   desktop_height: 36px
+  desktop: images/green-spruce.png
 footer:
   copyright_text: >-
     Free Jekyll theme by <a class="zerostatic"
