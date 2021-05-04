@@ -1,7 +1,7 @@
 ---
 title: Minifie Marketing
 layout: home
-description: 'Marketing and Lead Generation for a '
+description: Marketing and Lead Generation for a new Milenium!
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
