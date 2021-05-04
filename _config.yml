@@ -7,7 +7,6 @@ homepage:
 logo:
   mobile: images/rainy-cabbage.png
   desktop_height: 36px
-  desktop: images/marvelous-comet.png
 seo:
   meta_og_title: Jekyll Serif Theme
   meta_og_type: website
