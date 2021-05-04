@@ -6,7 +6,6 @@ homepage:
   show_call_box: true
 logo:
   mobile: images/rainy-cabbage.png
-  desktop: images/LogoMakr-73dWTG.png
   desktop_height: 36px
 footer:
   copyright_text: >-
