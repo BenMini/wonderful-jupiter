@@ -1,11 +1,14 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/reading.svg"
+intro_image: images/illustrations/reading.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
+# Client Acquisition that grows with your business!
 
-# Services that grow with your business
+You want to grow your business. I can help!
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Using state of the art digital marketing mediums we can bring in more customers.
+
+Ultimately filling the appointment book.
